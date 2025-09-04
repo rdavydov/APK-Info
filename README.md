@@ -110,6 +110,11 @@ Level 28 = Pie
 Level 29 = 10
 Level 30 = 11
 Level 31 = 12
+Level 32 = 12L
+Level 33 = 13
+Level 34 = 14
+Level 35 = 15
+Level 36 = 16
 ```
 
 # Additional info
